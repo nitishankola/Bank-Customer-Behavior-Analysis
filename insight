@@ -1,0 +1,24 @@
+Demographics & Customers Age Distribution: Customers are mostly between 30–50 years. This suggests your main banking audience is mid-career professionals.
+Gender: Slightly more male than female customers (based on genderid).
+
+Nationality: One nationality dominates (likely local customers), with fewer foreign clients.
+
+Banking Products & Usage Credit Cards: Average number of credit cards per customer is around 2–3.
+Bank Loans: Most customers have low to moderate loan amounts; very few have extremely high loan values.
+
+Checking vs Saving Accounts: Moderate correlation (0.46) between checking and savings balances – customers who keep more in checking also tend to save more.
+
+Income & Wealth Indicators Estimated Income: Positively related to savings, deposits, and foreign currency accounts.
+Superannuation Savings: Older customers and higher-income groups tend to have larger superannuation savings.
+
+Foreign Currency Accounts: Weak positive relationship with both checking and savings accounts (~0.31 correlation).
+
+Loyalty & Risk Loyalty Classification: Customers with higher balances and more products tend to fall into higher loyalty classes.
+Risk Weighting: Some high-income customers still have high risk scores, suggesting creditworthiness isn’t only based on income.
+
+Potential Business Insights Upsell foreign currency accounts to customers with high savings/checking balances.
+Offer premium credit card products to customers in high-income & high-savings brackets.
+
+Target loan offers to mid-age customers (30–50) who already have multiple products.
+
+Retain high-loyalty customers by offering exclusive benefits
